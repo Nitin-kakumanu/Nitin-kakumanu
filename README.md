@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nitin-kakumanu
-- 👀 I’m interested in Devops Engineering
-- 🌱 I’m currently learning AWS
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently 
 - 📫 whatsapp: 9392014754
 - 😄 Pronouns: Mister
 
